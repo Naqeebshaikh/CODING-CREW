@@ -1,5 +1,7 @@
 
 
+![DSA Coding Challenge Banner](https://qph.cf2.quoracdn.net/main-qimg-35ee5de299cd2f1a45af05fc454a6664)
+
 # 5-Day DSA Coding Challenge
 
 Welcome to my **5-Day DSA (Data Structures and Algorithms) Coding Challenge**! This repository is dedicated to enhancing coding skills, preparing for placements, and improving problem-solving abilities through rigorous practice. Over the course of this challenge, I solved problems related to arrays, strings, two-pointers, sliding window, and binary search. Each day focused on a specific topic with 8 problems solved per day.
@@ -12,12 +14,11 @@ Welcome to my **5-Day DSA (Data Structures and Algorithms) Coding Challenge**! T
 - [Day 4: Sliding Window](#day-4-sliding-window)
 - [Day 5: Binary Search](#day-5-binary-search)
 - [Conclusion](#conclusion)
+- [Collaborators](#collaborators)
 
 ---
 
 ## Day 1: Arrays
-
-![Arrays Icon](https://your-image-link.com/arrays.png)
 
 **Overview:** On this day, I tackled various array problems, focusing on understanding different array manipulation techniques and algorithms.
 
@@ -36,8 +37,6 @@ Welcome to my **5-Day DSA (Data Structures and Algorithms) Coding Challenge**! T
 
 ## Day 2: Strings
 
-![Strings Icon](https://your-image-link.com/strings.png)
-
 **Overview:** This day was dedicated to solving string manipulation problems, emphasizing various operations and algorithms on strings.
 
 | Problem | Description |
@@ -54,8 +53,6 @@ Welcome to my **5-Day DSA (Data Structures and Algorithms) Coding Challenge**! T
 ---
 
 ## Day 3: Two-Pointers
-
-![Two-Pointers Icon](https://your-image-link.com/two-pointers.png)
 
 **Overview:** I explored the two-pointer technique to solve problems efficiently, often reducing the time complexity of algorithms.
 
@@ -74,8 +71,6 @@ Welcome to my **5-Day DSA (Data Structures and Algorithms) Coding Challenge**! T
 
 ## Day 4: Sliding Window
 
-![Sliding Window Icon](https://your-image-link.com/sliding-window.png)
-
 **Overview:** The sliding window technique was the focus, useful for solving problems related to subarrays and substrings efficiently.
 
 | Problem | Description |
@@ -92,8 +87,6 @@ Welcome to my **5-Day DSA (Data Structures and Algorithms) Coding Challenge**! T
 ---
 
 ## Day 5: Binary Search
-
-![Binary Search Icon](https://your-image-link.com/binary-search.png)
 
 **Overview:** I delved into binary search, a powerful technique for searching and solving problems in logarithmic time.
 
@@ -114,8 +107,12 @@ Welcome to my **5-Day DSA (Data Structures and Algorithms) Coding Challenge**! T
 
 This 5-day challenge was a rewarding experience, enhancing my problem-solving skills and deepening my understanding of various DSA topics. Each day brought new challenges and learning opportunities.
 
-![Thank You Icon](https://your-image-link.com/thank-you.png)
-
 Thank you for checking out my **5-Day DSA Coding Challenge**! If you have any questions or suggestions, feel free to reach out.
 
+---
 
+## Collaborators
+
+- [Collaborator 1](https://github.com/collaborator1)
+- [Collaborator 2](https://github.com/collaborator2)
+- [Collaborator 3](https://github.com/collaborator3)
