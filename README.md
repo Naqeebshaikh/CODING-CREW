@@ -1,4 +1,4 @@
-![DSA Coding Challenge Banner](https://www.google.com/imgres?q=dsa%20CODING%20%20images%20SMALL%20ANIMATIONS&imgurl=https%3A%2F%2Fqph.cf2.quoracdn.net%2Fmain-qimg-2dce1604506be381539e4e042f60c095&imgrefurl=https%3A%2F%2Fwww.quora.com%2FHow-do-I-start-learning-or-strengthen-my-knowledge-of-data-structures-and-algorithms&docid=5PHwWij4eXVEJM&tbnid=3y9Js_5tlpf_ZM&vet=12ahUKEwjCouPF_taHAxU51jgGHeqWJlAQM3oECF0QAA..i&w=602&h=283&hcb=2&ved=2ahUKEwjCouPF_taHAxU51jgGHeqWJlAQM3oECF0QAA)
+
 
 # 5-Day DSA Coding Challenge
 
