@@ -1,6 +1,6 @@
 
 
-![DSA Coding Challenge Banner](https://qph.cf2.quoracdn.net/main-qimg-35ee5de299cd2f1a45af05fc454a6664)
+![DSA Coding Challenge Banner](https://www.google.com/imgres?q=competitive%20programming%20dsa%20CODING%20images%20SMALL%20ANIMATIONS&imgurl=https%3A%2F%2Fmedia.geeksforgeeks.org%2Fwp-content%2Fcdn-uploads%2F20191004160106%2FHow-to-Prepare-for-Competitive-Programming.png&imgrefurl=https%3A%2F%2Fwww.geeksforgeeks.org%2Fhow-to-prepare-for-competitive-programming%2F&docid=YTL-KThMTrXo4M&tbnid=K6l8oFxWvBe2SM&vet=12ahUKEwi6hLOBgNeHAxUAzDgGHYyAD-gQM3oECFYQAA..i&w=1000&h=623&hcb=2&ved=2ahUKEwi6hLOBgNeHAxUAzDgGHYyAD-gQM3oECFYQAA)
 
 # 5-Day DSA Coding Challenge
 
