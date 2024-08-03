@@ -1,3 +1,26 @@
+// Problem: Given an array of integers nums and an integer k, count the number of continuous subarrays (contiguous segments of the array) whose sum equals k.
+
+// Example:
+
+// Input: nums = [1, 1, 1], k = 2
+// Output: 2
+// Explanation: The subarrays [1, 1] and [1, 1] both have a sum of 2.
+// Approach to Solve the Problem
+// Initialization:
+
+// Start with a count variable (cnt) set to 0 to keep track of the number of subarrays that sum up to k.
+// Nested Loops:
+
+// Use two nested loops:
+// The outer loop fixes the starting index of the subarray.
+// The inner loop iterates through the elements from the current starting index to the end of the array, calculating the sum of the subarray.
+// Check the Sum:
+
+// For each subarray sum, check if it equals k. If it does, increment the count.
+// Return Result:
+
+// After processing all possible subarrays, return the total count.
+
 #include <bits/stdc++.h>
 using namespace std;
 
