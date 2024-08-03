@@ -22,14 +22,13 @@ Welcome to my **5-Day DSA (Data Structures and Algorithms) Coding Challenge**! T
 
 | Problem | Description |
 | ------- | ----------- |
-| Problem 1 | Description of problem 1 |
-| Problem 2 | Description of problem 2 |
-| Problem 3 | Description of problem 3 |
-| Problem 4 | Description of problem 4 |
-| Problem 5 |Given an array of integers nums and an integer k, count the number of continuous subarrays (contiguous segments of the array) whose sum equals k. |
-| Problem 6 | You are given a large integer represented as an array of digits, where each digit is in the range [0, 9]. The most significant digit is at the head of the list, and each element in the array contains a single digit. The large integer does not contain any leading 0 except the number 0 itself. |
-| Problem 7 | Description of problem 7 |
-| Problem 8 | Description of problem 8 |
+| 88 | Merge Sorted Array |
+| 15. |  3Sum |
+| 34. |  Find First and Last Position of Element in Sorted Array |
+|  169. | Majority Element |
+| 560. | Subarray Sum Equals K |
+| 66. | Plus One |
+| 219. |  Contains Duplicate II |
 
 ---
 
