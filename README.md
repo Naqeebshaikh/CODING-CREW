@@ -20,9 +20,10 @@ Welcome to my **5-Day DSA (Data Structures and Algorithms) Coding Challenge**! T
 
 **Overview:** On this day, I tackled various array problems, focusing on understanding different array manipulation techniques and algorithms.
 
-| Problem | Description |
-| ------- | ----------- |
-| 88 | Merge Sorted Array |
+| Problem-number
+(leetcode) | problem|
+| 73. |  Set Matrix Zeroes.cpp |
+| 88, | Merge Sorted Array |
 | 15. |  3Sum |
 | 34. |  Find First and Last Position of Element in Sorted Array |
 |  169. | Majority Element |
