@@ -20,7 +20,7 @@ Welcome to my **5-Day DSA (Data Structures and Algorithms) Coding Challenge**! T
 
 **Overview:** On this day, I tackled various array problems, focusing on understanding different array manipulation techniques and algorithms.
 
-| Problem-number (leetcode) | problem|
+| Problem-number (leetcode) | Problem |
 | ------- | ----------- |
 | 73. |  Set Matrix Zeroes |
 | 88, | Merge Sorted Array |
@@ -37,7 +37,7 @@ Welcome to my **5-Day DSA (Data Structures and Algorithms) Coding Challenge**! T
 
 **Overview:** This day was dedicated to solving string manipulation problems, emphasizing various operations and algorithms on strings.
 
-| Problem | Description |
+| Problem-number (leetcode) | Problem |
 | ------- | ----------- |
 | Problem 1 | Description of problem 1 |
 | Problem 2 | Description of problem 2 |
@@ -54,7 +54,7 @@ Welcome to my **5-Day DSA (Data Structures and Algorithms) Coding Challenge**! T
 
 **Overview:** I explored the two-pointer technique to solve problems efficiently, often reducing the time complexity of algorithms.
 
-| Problem | Description |
+| Problem-number (leetcode) | Problem |
 | ------- | ----------- |
 | Problem 1 | Description of problem 1 |
 | Problem 2 | Description of problem 2 |
@@ -71,7 +71,7 @@ Welcome to my **5-Day DSA (Data Structures and Algorithms) Coding Challenge**! T
 
 **Overview:** The sliding window technique was the focus, useful for solving problems related to subarrays and substrings efficiently.
 
-| Problem | Description |
+| Problem-number (leetcode) | Problem |
 | ------- | ----------- |
 | Problem 1 | Description of problem 1 |
 | Problem 2 | Description of problem 2 |
@@ -88,7 +88,7 @@ Welcome to my **5-Day DSA (Data Structures and Algorithms) Coding Challenge**! T
 
 **Overview:** I delved into binary search, a powerful technique for searching and solving problems in logarithmic time.
 
-| Problem | Description |
+| Problem-number (leetcode) | Problem |
 | ------- | ----------- |
 | Problem 1 | Description of problem 1 |
 | Problem 2 | Description of problem 2 |
