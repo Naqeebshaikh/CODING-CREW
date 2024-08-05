@@ -56,8 +56,8 @@ Welcome to my **5-Day DSA (Data Structures and Algorithms) Coding Challenge**! T
 
 | Problem-number (leetcode) | Problem |
 | ------- | ----------- |
-| Problem 1 | Description of problem 1 |
-| Problem 2 | Description of problem 2 |
+|  167 | Two Sum II - Input Array Is Sorted |
+| 392 |  Is Subsequence |
 | Problem 3 | Description of problem 3 |
 | Problem 4 | Description of problem 4 |
 | Problem 5 | Description of problem 5 |
