@@ -39,10 +39,10 @@ Welcome to my **5-Day DSA (Data Structures and Algorithms) Coding Challenge**! T
 
 | Problem-number (leetcode) | Problem |
 | ------- | ----------- |
-| Problem 1 | 13. Roman to Integer |
-| Problem 2 | 6. Zigzag Conversion|
-| Problem 3 | Description of problem 3 |
-| Problem 4 | Description of problem 4 |
+| 13 |Roman to Integer |
+| 6 |Zigzag Conversion|
+| 205 | Isomorphic Strings |
+| 290 | Word Pattern |
 | Problem 5 | Description of problem 5 |
 | Problem 6 | Description of problem 6 |
 | Problem 7 | Description of problem 7 |
