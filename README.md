@@ -92,7 +92,7 @@ Welcome to my **5-Day DSA (Data Structures and Algorithms) Coding Challenge**! T
 | ------- | ----------- |
 | 74. |  Search a 2D Matrix |
 | 153. |  Find Minimum in Rotated Sorted Array |
-| Problem 3 | Description of problem 3 |
+| 300. |  Longest Increasing Subsequence |
 | Problem 4 | Description of problem 4 |
 | Problem 5 | Description of problem 5 |
 | Problem 6 | Description of problem 6 |
