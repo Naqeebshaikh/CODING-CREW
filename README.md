@@ -76,7 +76,7 @@ Welcome to our **Coding-Crew**! This repository is dedicated to enhancing coding
 | Problem-number (leetcode) | Problem |
 | ------- | ----------- |
 | 1004 | Max Consecutive Ones III |
-| Problem 2 | Description of problem 2 |
+| 1493 |Longest Subarray of 1's After Deleting One Element |
 | Problem 3 | Description of problem 3 |
 | Problem 4 | Description of problem 4 |
 | Problem 5 | Description of problem 5 |
@@ -95,7 +95,7 @@ Welcome to our **Coding-Crew**! This repository is dedicated to enhancing coding
 | 74. |  Search a 2D Matrix |
 | 153. |  Find Minimum in Rotated Sorted Array |
 | 300. |  Longest Increasing Subsequence |
-| Problem 4 | Description of problem 4 |
+| 162 | Find peak element |
 | Problem 5 | Description of problem 5 |
 | Problem 6 | Description of problem 6 |
 | Problem 7 | Description of problem 7 |
