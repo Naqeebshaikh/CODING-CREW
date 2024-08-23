@@ -4,7 +4,7 @@
 
 Welcome to our **Coding-Crew**! This repository is dedicated to enhancing coding skills, preparing for placements, and improving problem-solving abilities through rigorous practice. Over the course of this challenge, I solved problems related to arrays, strings, two-pointers, sliding windows, binary search, SQL, Linked-list, Stacks and Queues.
 
-**The first five days involved tackling specific problems on designated topics each day.**
+**The first Seven days involved tackling specific problems on designated topics each day.**
 
 ## Table of Contents
 
