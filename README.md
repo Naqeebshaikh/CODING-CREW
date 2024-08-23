@@ -60,9 +60,9 @@ Welcome to our **DSA QuestForge**! This repository is dedicated to enhancing cod
 | ------- | ----------- |
 |  167 | Two Sum II - Input Array Is Sorted |
 | 392 |  Is Subsequence |
-| Problem 3 | Description of problem 3 |
-| Problem 4 | Description of problem 4 |
-| Problem 5 | Description of problem 5 |
+| 1679 |  Max Number of K-Sum Pairs|
+|  11  |Container With Most Water|
+| 125 |  Valid Palindrome|
 | Problem 6 | Description of problem 6 |
 | Problem 7 | Description of problem 7 |
 | Problem 8 | Description of problem 8 |
