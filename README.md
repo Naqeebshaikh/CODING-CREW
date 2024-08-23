@@ -1,8 +1,10 @@
 ![DSA Coding Challenge Banner](https://t3.ftcdn.net/jpg/06/01/17/18/360_F_601171862_l7yZ0wujj8o2SowiKTUsfLEEx8KunYNd.jpg)
 
-# 5-Day DSA Coding Challenge
+# DSA Coding Challenge
 
-Welcome to my **5-Day DSA (Data Structures and Algorithms) Coding Challenge**! This repository is dedicated to enhancing coding skills, preparing for placements, and improving problem-solving abilities through rigorous practice. Over the course of this challenge, I solved problems related to arrays, strings, two-pointers, sliding window, and binary search. Each day focused on a specific topic with 8 problems solved per day.
+Welcome to our **DSA QuestForge**! This repository is dedicated to enhancing coding skills, preparing for placements, and improving problem-solving abilities through rigorous practice. Over the course of this challenge, I solved problems related to arrays, strings, two-pointers, sliding windows, binary search, SQL, Linked-list, Stacks and Queues.
+
+**The first five days involved tackling specific problems on designated topics each day.**
 
 ## Table of Contents
 
@@ -103,9 +105,9 @@ Welcome to my **5-Day DSA (Data Structures and Algorithms) Coding Challenge**! T
 
 ## Conclusion
 
-This 5-day challenge was a rewarding experience, enhancing my problem-solving skills and deepening my understanding of various DSA topics. Each day brought new challenges and learning opportunities.
+This challenge was a rewarding experience, enhancing my problem-solving skills and deepening my understanding of various DSA topics. Each day brought new challenges and learning opportunities.
 
-Thank you for checking out my **5-Day DSA Coding Challenge**! If you have any questions or suggestions, feel free to reach out.
+Thank you for checking out our **DSA QuestForge**! If you have any questions or suggestions, feel free to reach out.
 
 ---
 
