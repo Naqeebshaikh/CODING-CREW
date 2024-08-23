@@ -101,7 +101,35 @@ Welcome to our **DSA QuestForge**! This repository is dedicated to enhancing cod
 | Problem 7 | Description of problem 7 |
 | Problem 8 | Description of problem 8 |
 
----
+## Day 6: Binary Search
+
+**Overview:** I delved into binary search, a powerful technique for searching and solving problems in logarithmic time.
+
+| Problem-number (leetcode) | Problem |
+| ------- | ----------- |
+|  |  |
+|  |  |
+|  |  |
+| Problem 4 | Description of problem 4 |
+| Problem 5 | Description of problem 5 |
+| Problem 6 | Description of problem 6 |
+| Problem 7 | Description of problem 7 |
+| Problem 8 | Description of problem 8 |
+
+## Day 7:
+
+**Overview:** 
+
+| Problem-number (leetcode) | Problem |
+| ------- | ----------- |
+|  |  |
+|  |  |
+|  |  |
+| Problem 4 | Description of problem 4 |
+| Problem 5 | Description of problem 5 |
+| Problem 6 | Description of problem 6 |
+| Problem 7 | Description of problem 7 |
+| Problem 8 | Description of problem 8 |
 
 ## Conclusion
 
