@@ -77,8 +77,7 @@ Welcome to our **Coding-Crew**! This repository is dedicated to enhancing coding
 | ------- | ----------- |
 | 1004 | Max Consecutive Ones III |
 | 1493 |Longest Subarray of 1's After Deleting One Element |
-| Problem 3 | Description of problem 3 |
-| Problem 4 | Description of problem 4 |
+| 209 |  Minimum Size Subarray Sum |
 | Problem 5 | Description of problem 5 |
 | Problem 6 | Description of problem 6 |
 | Problem 7 | Description of problem 7 |
