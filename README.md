@@ -108,8 +108,8 @@ Welcome to our **Coding-Crew**! This repository is dedicated to enhancing coding
 | ------- | ----------- |
 | 1193  | Monthly Transaction I |
 | 1729 | Find Followers Count |
-|  |  |
-| Problem 4 | Description of problem 4 |
+|1978  |Employees whose manager left company  |
+| 596 | Classes more than 5 students |
 | Problem 5 | Description of problem 5 |
 | Problem 6 | Description of problem 6 |
 | Problem 7 | Description of problem 7 |
