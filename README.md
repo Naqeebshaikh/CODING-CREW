@@ -80,6 +80,7 @@ Welcome to our **Coding-Crew**! This repository is dedicated to enhancing coding
 | 209 |  Minimum Size Subarray Sum |
 | 643 | Maximum Average subarray 1 |
 | 3 | Longest substring without repeating characters |
+| 644 | Maximum Average subarray 2 |
 
 
 ---
@@ -99,35 +100,22 @@ Welcome to our **Coding-Crew**! This repository is dedicated to enhancing coding
 | Problem 7 | Description of problem 7 |
 | Problem 8 | Description of problem 8 |
 
-## Day 6: Binary Search
+## Day 6: MySQL
 
 **Overview:** I delved into binary search, a powerful technique for searching and solving problems in logarithmic time.
 
 | Problem-number (leetcode) | Problem |
 | ------- | ----------- |
-|  |  |
-|  |  |
-|  |  |
-| Problem 4 | Description of problem 4 |
-| Problem 5 | Description of problem 5 |
-| Problem 6 | Description of problem 6 |
-| Problem 7 | Description of problem 7 |
-| Problem 8 | Description of problem 8 |
-
-## Day 7:MySQL
-
-**Overview:** 
-
-| Problem-number (leetcode) | Problem |
-| ------- | ----------- |
-|  1729 |  Find Followers Count |
-| 1193 |Monthly Transaction I  |
+| 1193  | Monthly Transaction I |
+| 1729 | Find Followers Count |
 |  |  |
 | Problem 4 | Description of problem 4 |
 | Problem 5 | Description of problem 5 |
 | Problem 6 | Description of problem 6 |
 | Problem 7 | Description of problem 7 |
 | Problem 8 | Description of problem 8 |
+
+
 
 ## Conclusion
 
