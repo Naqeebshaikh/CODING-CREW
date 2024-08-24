@@ -190,7 +190,7 @@ Happy Coding!
 
 This challenge was a rewarding experience, enhancing my problem-solving skills and deepening my understanding of various DSA topics. Each day brought new challenges and learning opportunities.
 
-Thank you for checking out our **DSA QuestForge**! If you have any questions or suggestions, feel free to reach out.
+Thank you for checking out our **CODING-CREW**! If you have any questions or suggestions, feel free to reach out.
 
 ---
 
