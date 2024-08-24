@@ -114,14 +114,14 @@ Welcome to our **Coding-Crew**! This repository is dedicated to enhancing coding
 | Problem 7 | Description of problem 7 |
 | Problem 8 | Description of problem 8 |
 
-## Day 7:
+## Day 7:MySQL
 
 **Overview:** 
 
 | Problem-number (leetcode) | Problem |
 | ------- | ----------- |
-|  |  |
-|  |  |
+|  1729 |  Find Followers Count |
+| 1193 |Monthly Transaction I  |
 |  |  |
 | Problem 4 | Description of problem 4 |
 | Problem 5 | Description of problem 5 |
