@@ -100,7 +100,7 @@ Welcome to our **Coding-Crew**! This repository is dedicated to enhancing coding
 | Problem 7 | Description of problem 7 |
 | Problem 8 | Description of problem 8 |
 
-## Day 6: MySQL
+## Day 6: Arrays & strings
 
 **Overview:** This day was dedicated to solving string and arrays manipulation problems, emphasizing various operations and algorithms.
 
