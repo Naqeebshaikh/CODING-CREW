@@ -115,6 +115,70 @@ Welcome to our **Coding-Crew**! This repository is dedicated to enhancing coding
 | Problem 7 | Description of problem 7 |
 | Problem 8 | Description of problem 8 |
 
+# 5-Day Coding Challenge
+
+Welcome to the 5-Day Coding Cycle Challenge! This repository is designed to enhance coding skills through daily practice and collaboration. Each day, participants will tackle five problems, with each problem being solved by a different collaborator. The goal is to solve and explain one problem per day, focusing on various data structures and algorithms.
+
+## Challenge Structure
+
+### **Day 1: Arrays and Strings**
+
+### **Day 2: Linked Lists and Recursion**
+
+### **Day 3: Stacks, Queues, and Hashing**
+
+### **Day 4: Two Pointers and Binary Search**
+
+### **Day 5: SQL and Binary Search Trees (BST)**
+-
+
+## Participation
+
+Each day, a different collaborator will solve one problem and provide an explanation. The solved problems and explanations will be documented in this repository to help all participants learn and improve.
+
+### **Problem Solving Table**
+
+| **Day** | **Problem No.** | **Problem Description**               | **Solved By**     |
+|---------|-----------------|---------------------------------------|------------------|
+| **Day 1: Arrays and Strings**         | 1   |                                       | Collaborator 1 |
+|                               | 2   |                                       | Collaborator 2 |
+|                               | 3   |                                       | Collaborator 3 |
+|                               | 4   |                                       | Collaborator 4 |
+|                               | 5   |                                       | Collaborator 5 |
+| **Day 2: Linked Lists and Recursion** | 6   |                                       | Collaborator 1 |
+|                               | 7   |                                       | Collaborator 2 |
+|                               | 8   |                                       | Collaborator 3 |
+|                               | 9   |                                       | Collaborator 4 |
+|                               | 10  |                                       | Collaborator 5 |
+| **Day 3: Stacks, Queues, and Hashing** | 11 |                                       | Collaborator 1 |
+|                               | 12  |                                       | Collaborator 2 |
+|                               | 13  |                                       | Collaborator 3 |
+|                               | 14  |                                       | Collaborator 4 |
+|                               | 15  |                                       | Collaborator 5 |
+| **Day 4: Two Pointers and Binary Search** | 16 |                                       | Collaborator 1 |
+|                               | 17  |                                       | Collaborator 2 |
+|                               | 18  |                                       | Collaborator 3 |
+|                               | 19  |                                       | Collaborator 4 |
+|                               | 20  |                                       | Collaborator 5 |
+| **Day 5: SQL and Binary Search Trees (BST)** | 21 |                                       | Collaborator 1 |
+|                               | 22  |                                       | Collaborator 2 |
+|                               | 23  |                                       | Collaborator 3 |
+|                               | 24  |                                       | Collaborator 4 |
+|                               | 25  |                                       | Collaborator 5 |
+
+## How to Contribute
+
+1. **Solve the Problem:** Pick a problem for the day and solve it.
+2. **Document Your Solution:** Add your solution and explanation to the repository.
+3. **Review:** Check solutions from other collaborators to gain new insights.
+
+## Contact
+
+For any questions or suggestions, feel free to reach out to the project collaborators.
+
+Happy Coding!
+
+
 
 
 ## Conclusion
