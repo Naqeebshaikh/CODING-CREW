@@ -102,7 +102,7 @@ Welcome to our **Coding-Crew**! This repository is dedicated to enhancing coding
 
 ## Day 6: MySQL
 
-**Overview:** I delved into binary search, a powerful technique for searching and solving problems in logarithmic time.
+**Overview:** This day was dedicated to solving string and arrays manipulation problems, emphasizing various operations and algorithms.
 
 | Problem-number (leetcode) | Problem |
 | ------- | ----------- |
@@ -110,10 +110,10 @@ Welcome to our **Coding-Crew**! This repository is dedicated to enhancing coding
 | 1729 | Find Followers Count |
 |1978  |Employees whose manager left company  |
 | 596 | Classes more than 5 students |
-| Problem 5 | Description of problem 5 |
-| Problem 6 | Description of problem 6 |
-| Problem 7 | Description of problem 7 |
-| Problem 8 | Description of problem 8 |
+| 134 | Gas Station |
+| 345 | Reverse Vowels of a String |
+| 500 | Keyboard Row |
+| 322 | Coin change |
 
 # 30 Days Coding  Challenge
 
