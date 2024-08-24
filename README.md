@@ -115,12 +115,12 @@ Welcome to our **Coding-Crew**! This repository is dedicated to enhancing coding
 | Problem 7 | Description of problem 7 |
 | Problem 8 | Description of problem 8 |
 
-# 5-Day Coding Challenge
+# 30 Days Coding  Challenge
 
-Welcome to the 5-Day Coding Cycle Challenge! This repository is designed to enhance coding skills through daily practice and collaboration. Each day, participants will tackle five problems, with each problem being solved by a different collaborator. The goal is to solve and explain one problem per day, focusing on various data structures and algorithms.
+Welcome to the 30-Day Coding  Challenge! This repository is designed to enhance coding skills through daily practice and collaboration. Each day, participants will tackle five problems, with each problem being solved by a different collaborator. The goal is to solve and explain one problem per day, focusing on various data structures and algorithms.
 
 ## Challenge Structure
-
+## WEEK1
 ### **Day 1: Arrays and Strings**
 
 ### **Day 2: Linked Lists and Recursion**
@@ -136,6 +136,7 @@ Welcome to the 5-Day Coding Cycle Challenge! This repository is designed to enha
 
 Each day, a different collaborator will solve one problem and provide an explanation. The solved problems and explanations will be documented in this repository to help all participants learn and improve.
 
+## WEEK 1
 ### **Problem Solving Table**
 
 | **Day** | **Problem No.** | **Problem Description**               | **Solved By**     |
@@ -145,21 +146,25 @@ Each day, a different collaborator will solve one problem and provide an explana
 |                               | 3   |                                       | Collaborator 3 |
 |                               | 4   |                                       | Collaborator 4 |
 |                               | 5   |                                       | Collaborator 5 |
+
 | **Day 2: Linked Lists and Recursion** | 6   |                                       | Collaborator 1 |
 |                               | 7   |                                       | Collaborator 2 |
 |                               | 8   |                                       | Collaborator 3 |
 |                               | 9   |                                       | Collaborator 4 |
 |                               | 10  |                                       | Collaborator 5 |
+
 | **Day 3: Stacks, Queues, and Hashing** | 11 |                                       | Collaborator 1 |
 |                               | 12  |                                       | Collaborator 2 |
 |                               | 13  |                                       | Collaborator 3 |
 |                               | 14  |                                       | Collaborator 4 |
 |                               | 15  |                                       | Collaborator 5 |
+
 | **Day 4: Two Pointers and Binary Search** | 16 |                                       | Collaborator 1 |
 |                               | 17  |                                       | Collaborator 2 |
 |                               | 18  |                                       | Collaborator 3 |
 |                               | 19  |                                       | Collaborator 4 |
 |                               | 20  |                                       | Collaborator 5 |
+
 | **Day 5: SQL and Binary Search Trees (BST)** | 21 |                                       | Collaborator 1 |
 |                               | 22  |                                       | Collaborator 2 |
 |                               | 23  |                                       | Collaborator 3 |
