@@ -120,7 +120,7 @@ Welcome to our **Coding-Crew**! This repository is dedicated to enhancing coding
 Welcome to the 30-Day Coding  Challenge! This repository is designed to enhance coding skills through daily practice and collaboration. Each day, participants will tackle five problems, with each problem being solved by a different collaborator. The goal is to solve and explain one problem per day, focusing on various data structures and algorithms.
 
 ## Challenge Structure
-## WEEK1
+
 ### **Day 1: Arrays and Strings**
 
 ### **Day 2: Linked Lists and Recursion**
@@ -129,47 +129,64 @@ Welcome to the 30-Day Coding  Challenge! This repository is designed to enhance 
 
 ### **Day 4: Two Pointers and Binary Search**
 
-### **Day 5: SQL and Binary Search Trees (BST)**
+### **Day 5: SQL and Binary  Trees (BT)**
 -
 
 ## Participation
 
 Each day, a different collaborator will solve one problem and provide an explanation. The solved problems and explanations will be documented in this repository to help all participants learn and improve.
 
-## WEEK 1
-### **Problem Solving Table**
+## WEEK1
 
-| **Day** | **Problem No.** | **Problem Description**               | **Solved By**     |
-|---------|-----------------|---------------------------------------|------------------|
-| **Day 1: Arrays and Strings**         | 1   |                                       | Collaborator 1 |
-|                               | 2   |                                       | Collaborator 2 |
-|                               | 3   |                                       | Collaborator 3 |
-|                               | 4   |                                       | Collaborator 4 |
-|                               | 5   |                                       | Collaborator 5 |
+## Day 1: Arrays and Strings
 
-| **Day 2: Linked Lists and Recursion** | 6   |                                       | Collaborator 1 |
-|                               | 7   |                                       | Collaborator 2 |
-|                               | 8   |                                       | Collaborator 3 |
-|                               | 9   |                                       | Collaborator 4 |
-|                               | 10  |                                       | Collaborator 5 |
+| **Problem No. (LeetCode)** | **Problem Description** | **Solved By**  | **Topic** |
+|----------------------------|-------------------------|----------------|-----------|
+| 1                          | Description 1           | Collaborator 1 | Arrays    |
+| 2                          | Description 2           | Collaborator 2 | Strings   |
+| 3                          | Description 3           | Collaborator 3 | Arrays    |
+| 4                          | Description 4           | Collaborator 4 | Strings   |
+| 5                          | Description 5           | Collaborator 5 | Arrays    |
 
-| **Day 3: Stacks, Queues, and Hashing** | 11 |                                       | Collaborator 1 |
-|                               | 12  |                                       | Collaborator 2 |
-|                               | 13  |                                       | Collaborator 3 |
-|                               | 14  |                                       | Collaborator 4 |
-|                               | 15  |                                       | Collaborator 5 |
+## Day 2: Arrays and Strings
 
-| **Day 4: Two Pointers and Binary Search** | 16 |                                       | Collaborator 1 |
-|                               | 17  |                                       | Collaborator 2 |
-|                               | 18  |                                       | Collaborator 3 |
-|                               | 19  |                                       | Collaborator 4 |
-|                               | 20  |                                       | Collaborator 5 |
+| **Problem No. (LeetCode)** | **Problem Description** | **Solved By**  | **Topic** |
+|----------------------------|-------------------------|----------------|-----------|
+| 1                          | Description 6           | Collaborator 1 | Strings   |
+| 2                          | Description 7           | Collaborator 2 | Arrays    |
+| 3                          | Description 8           | Collaborator 3 | Strings   |
+| 4                          | Description 9           | Collaborator 4 | Arrays    |
+| 5                          | Description 10          | Collaborator 5 | Strings   |
 
-| **Day 5: SQL and Binary Search Trees (BST)** | 21 |                                       | Collaborator 1 |
-|                               | 22  |                                       | Collaborator 2 |
-|                               | 23  |                                       | Collaborator 3 |
-|                               | 24  |                                       | Collaborator 4 |
-|                               | 25  |                                       | Collaborator 5 |
+## Day 3: Stacks, Queues, and Hashing
+
+| **Problem No. (LeetCode)** | **Problem Description** | **Solved By**  | **Topic** |
+|----------------------------|-------------------------|----------------|-----------|
+| 1                          | Description 11          | Collaborator 1 | Stacks    |
+| 2                          | Description 12          | Collaborator 2 | Queues    |
+| 3                          | Description 13          | Collaborator 3 | Hashing   |
+| 4                          | Description 14          | Collaborator 4 | Stacks    |
+| 5                          | Description 15          | Collaborator 5 | Queues    |
+
+## Day 4: Two Pointers and Binary Search
+
+| **Problem No. (LeetCode)** | **Problem Description** | **Solved By**  | **Topic**       |
+|----------------------------|-------------------------|----------------|-----------------|
+| 1                          | Description 16          | Collaborator 1 | Two Pointers    |
+| 2                          | Description 17          | Collaborator 2 | Binary Search   |
+| 3                          | Description 18          | Collaborator 3 | Two Pointers    |
+| 4                          | Description 19          | Collaborator 4 | Binary Search   |
+| 5                          | Description 20          | Collaborator 5 | Two Pointers    |
+
+## Day 5: SQL and Binary Trees (BT)
+
+| **Problem No. (LeetCode)** | **Problem Description** | **Solved By**  | **Topic** |
+|----------------------------|-------------------------|----------------|-----------|
+| 1                          | Description 21          | Collaborator 1 | SQL       |
+| 2                          | Description 22          | Collaborator 2 | BT       |
+| 3                          | Description 23          | Collaborator 3 | SQL       |
+| 4                          | Description 24          | Collaborator 4 | BT       |
+| 5                          | Description 25          | Collaborator 5 | SQL       |
 
 ## How to Contribute
 
